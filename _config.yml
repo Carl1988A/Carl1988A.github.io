@@ -1,12 +1,12 @@
 # Site settings
-title:
+title: Carlos Alexandre Costa
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://carl1988a.github.io/" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: Carl1988A
 
 # Build settings
 markdown: kramdown
